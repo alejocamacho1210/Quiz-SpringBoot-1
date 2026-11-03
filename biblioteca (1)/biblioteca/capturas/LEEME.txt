@@ -1,0 +1,5 @@
+Guarda aquí las 4 capturas (curl 1 a 4) con estos nombres:
+01-listar.png
+02-libro-1.png
+03-libro-4.png
+04-libro-99-error-500.png
