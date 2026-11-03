@@ -1,6 +1,6 @@
 # Examen — CRUD de libros en tres capas
 
-**Estudiante:** Aelajandro Camacho
+**Estudiante:** Alejandro Camacho
 
 API REST con Spring Boot para consultar el catálogo de la biblioteca «Palabras». Los datos viven en una lista en memoria, sin base de datos ni JPA.
 
